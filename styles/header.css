@@ -77,11 +77,11 @@
   .cabeçalho__menu-hamburguer {
     display: none;
   }
-  .opções_botão:checked ~ .lista-menu {
+  .opções__botão:checked ~ .lista-menu {
     display: block;
     width: auto;
   }
-  .opções_botão {
+  .opções__botão {
     display: none;
   }
 }  
