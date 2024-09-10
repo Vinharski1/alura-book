@@ -63,7 +63,7 @@
   .opções {
     display: flex;
   }
-  .opções_item {
+  .opções__item {
     padding: 0 1em;
     text-transform: uppercase;
   }
