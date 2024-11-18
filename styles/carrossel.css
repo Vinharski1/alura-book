@@ -95,3 +95,27 @@
         top: 60%;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .carrossel__container {
+      display: flex;
+      width: 50%;
+      margin: 0 20vw 3em 20vw;
+    }
+    .descricao__titulo {
+        font-size: 32px;
+    }
+    .card {
+        margin-left: 3em;
+        width: 60%;
+    }
+    .swiper-pagination {
+        margin: 1em 0;
+    }
+    .swiper {
+        width: 50%;
+    }
+    .descrição__texto {
+        font-size: 16px;
+    }
+}
